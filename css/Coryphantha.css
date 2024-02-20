@@ -453,7 +453,11 @@ the website, in dark theme
 .footer__information{
   font-size: var(--small-font-size);
 }
-
+.underline a{
+  font-size: var(--small-font-size);
+  color:inherit;
+  text-decoration: underline;
+}
 .footer__social{
   display: inline-flex;
   column-gap: .75rem;
