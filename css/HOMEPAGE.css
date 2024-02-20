@@ -8,7 +8,7 @@
   /*========== Colors ==========*/
   /*Color mode HSL(hue, saturation, lightness)*/
   --hue: 131;
-  --first-color: hsl(var(--hue), 30%, 62%);
+  --first-color: hsl(var(--hue), 24%, 32%);
   --first-color-alt: hsl(var(--hue), 52%, 33%);
   --first-color-light: hsl(var(--hue), 24%, 66%);
   --first-color-lighten: hsl(var(--hue), 24%, 92%);
@@ -339,6 +339,13 @@ the website, in dark theme
   position: relative;
   transform: rotate(90deg);
 }
+
+/*Combined CSS follow links*/
+.wrapped{
+  color: white;
+}
+
+
 
 .home__social-follow::after{
   content: '';
@@ -1004,6 +1011,7 @@ the website, in dark theme
   }
   .product__img{
     width: 160px;
+    cursor: pointer;
   }
   .product__circle{
     width: 110px;
