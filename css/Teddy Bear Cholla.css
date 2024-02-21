@@ -345,6 +345,9 @@ the website, in dark theme
 .product__title{
   margin-bottom: 100px;
 }
+.product h4{
+  font-weight: normal;
+}
 
 
 /*=============== STEPS ===============*/
@@ -566,9 +569,7 @@ the website, in dark theme
     grid-template-columns: .6fr;
     justify-content: center;
   }
-  .product h4{
-    font-weight: normal;
-  }
+  
 }
 
 /* For medium devices */
