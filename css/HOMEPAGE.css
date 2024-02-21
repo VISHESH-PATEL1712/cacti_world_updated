@@ -47,6 +47,7 @@
   --z-fixed: 100;
 }
 
+
 /* Responsive typography */
 @media screen and (min-width: 968px) {
   :root {
@@ -555,6 +556,9 @@ the website, in dark theme
 
 .product__card:hover .product__img{
   transform: translateY(-.5rem);
+}
+.product h4{
+  font-weight: normal;
 }
 
 /*=============== QUESTIONS ===============*/

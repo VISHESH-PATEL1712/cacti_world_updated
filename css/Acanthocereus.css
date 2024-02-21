@@ -701,6 +701,9 @@ the website, in dark theme
   .product__price{
     font-size: var(--normal-font-size);
   }
+  .product h4{
+    font-weight: normal;
+  }
 
   .questions__container{
     padding: 1rem 0 4rem;

@@ -566,6 +566,9 @@ the website, in dark theme
     grid-template-columns: .6fr;
     justify-content: center;
   }
+  .product h4{
+    font-weight: normal;
+  }
 }
 
 /* For medium devices */
