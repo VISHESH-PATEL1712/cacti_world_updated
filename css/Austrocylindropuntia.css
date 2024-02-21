@@ -457,7 +457,17 @@ the website, in dark theme
 .underline a{
   font-size: var(--small-font-size);
   color:inherit;
-  text-decoration: underline;
+  text-decoration: none;
+}
+.underline1 a{
+  font-size: var(--small-font-size);
+  color:inherit;
+  text-decoration: none;
+}
+.underline2 {
+  font-size: var(--small-font-size);
+  color:inherit;
+  text-decoration: none;
 }
 
 .footer__social{
