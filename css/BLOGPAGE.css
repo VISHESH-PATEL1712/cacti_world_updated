@@ -334,12 +334,12 @@ the website, in dark theme
 }
 
 .about__img{
-  border-radius: 15px 50px 30px;
+  border-radius: 40px 40px 40px;
   background: url(paper.gif);
   background-position: left top;
   background-repeat: repeat;
   padding: 10px;
-  width: 300px;
+  width: 450px;
   height: 300px;
 }
 
@@ -696,9 +696,9 @@ the website, in dark theme
     padding-right: 7rem;
   }
 
-  .about__img{
+  /*.about__img{
     width: 380px;
-  }
+  }*/
 
   .steps__container{
     grid-template-columns: repeat(3, 1fr);
