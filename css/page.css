@@ -6,7 +6,7 @@
 .card{
 	height: 300px;
     margin: 30px;
-    box-shadow: 5px 10px 10px var(--text-color);
+    box-shadow: 0px 5px 12px var(--text-color);
     overflow: hidden;
     transition: all 0.7s ease;
     border-radius: 40px;
